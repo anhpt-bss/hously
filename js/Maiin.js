@@ -229,7 +229,7 @@ function prevbtn() {
 //     if ( regxemail.test(email) == true){
 //         if ( regepass.test(password) == true){
 //             if (regname.test(name) == true) {
-//                 link.setAttribute("href", "../home.html");
+//                 link.setAttribute("href", "../index.html");
 //             }
 //             else{
 //                 error_3.innerText = "Your name is not Correct 'LOL'";
